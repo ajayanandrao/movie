@@ -1,0 +1,57 @@
+@import './mixin.scss';
+
+a{
+    text-decoration: none;
+    color: #A3A3A3;
+    &:hover{color: white;}
+}
+
+.navbar{
+background-color: #161616  ;
+margin-bottom: 10px;
+li{
+    padding: 0 0.1rem;
+	.nav-link{
+        color: #A3A3A3 !important;
+    &:hover{
+        color: white !important;
+    }
+    }
+}
+.navbar-brand{
+	color: whitesmoke;
+	margin-left: 40px;
+	
+}
+}
+.navbar-toggler{       
+	border: none;
+}
+
+.navul{
+position: absolute;
+right:  35%;
+
+}
+.btn-outline-success{
+	border: 1px solid rgba(255, 255, 255, 0.774);
+	color: rgba(255, 255, 255, 0.774);
+
+&:hover{
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid rgba(255, 255, 255, 0.774);
+}
+}
+
+@include tab {
+	.navul{
+		position:relative;
+		right: inherit;
+		}
+		
+		.navbar-brand{
+			margin-left: 0px !important;
+		}	
+
+        
+}

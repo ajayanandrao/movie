@@ -1,0 +1,52 @@
+@import '../mixin.scss';
+
+.Nav-Category{
+    width: 90%;
+    margin: 0 auto;
+    height: 50px;
+    background: #161616;
+    display: flex;
+    align-items: center;
+    border-radius: 2rem;
+    margin-top: 15px;
+    .Nav-Category-Title-One{
+        width: 50%;
+        text-align: center;
+        .movieText-Color{   
+            color: #A3A3A3;
+            font-size: 20px;
+            font-weight: 500;
+            &:hover{
+                color: white;
+            }
+        }   
+    }
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+.container-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+
+
+@include des {
+    .container-grid{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@include tab {
+    .container-grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@include mobile {
+    .container-grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

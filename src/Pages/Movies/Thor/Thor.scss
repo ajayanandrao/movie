@@ -1,0 +1,14 @@
+.flexx{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.grid-screenshot {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+
+    .screenshot-size {
+        width: 100%;
+    }
+}

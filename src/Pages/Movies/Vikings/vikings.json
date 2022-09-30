@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "screen1": "https://norse-mythology.org/wp-content/uploads/2017/11/Viking-Woman.jpg"
+  },
+  { 
+    "id": 2, 
+    "screen2": "https://cdn.thinkwebcontent.com/articles/33252/800/33252-1645455530--OBBvzO-Vikings-IrishTVseries2013-2020-FilmAffinity.jpg"
+  },
+  { 
+    "id": 3, 
+    "screen3": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6ffb464fb3bfba0bc894e8b308baceb97ff0f128777bd4b8a8c6e9e9acc7790d._SX1080_.jpg"
+  },
+  { 
+    "id": 4, 
+    "screen4": "https://www.looper.com/img/gallery/the-ending-of-vikings-season-6-explained/intro-1609386609.jpg"
+  }
+]

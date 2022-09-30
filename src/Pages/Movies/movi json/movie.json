@@ -1,0 +1,157 @@
+[
+  
+  {
+    "id": 1,
+    "img": "https://myimg.bid/images/2022/09/08/Thor-2022-English-HDRip-Full-Movie.jpg",
+    "name": "Thor: Love & Thunder",
+    "description": "Thor: Love and Thunder (2022) WEB-DL [English DD5.1] 1080p 720p & 480p [x264/ESubs] | Full Movie",
+    "title":"Thor: Love & Thunder (Full Movie)",
+    "mrout":"/thor"
+  },
+
+  {
+    "id": 2,
+    "img": "https://myimg.bid/images/2022/03/22/w3qa274gvca9t8pkUoG8nfQgTU3.jpg",
+    "name": "Fifty Shades Darker ",
+    "description": "Fifty Shades Darker (2017) BluRay [Hindi DD2.0 & English] Dual Audio 1080p & 720p & 480p x264 ESubs HD | Full Movie",
+    "title":"Fifty Shades Darker (Hindi Dubbed)",
+    "mrout":"/default"
+  },
+
+  {
+    "id": 3,
+    "img": "https://myimg.bid/images/2022/02/25/Vikings-Valhalla-S01-Hindi-HDRip-ALL-Episodes.jpg",
+    "name": "Vikings: Valhalla",
+    "description": "Vikings: Valhalla (Season 1) WEB-DL [Hindi DD5.1 & English] Dual Audio 1080p 720p & 480p [x264/10Bit HEVC] HD | [ALL Episodes] NF Series",
+    "title":"Vikings: Valhalla (Season 1)",
+    "mrout":"/vikings"
+  },
+
+  {
+    "id": 4,
+    "img": "https://myimg.bid/images/2022/03/11/SpiderMan-No-Way-Home-2021-English-HDRip-Full-Movie.jpg",
+    "name": "Spider-Man No Way Home (Hindi Dubbed)",
+    "description": "Spider-Man: No Way Home (2021) BluRay [Hindi (ORG 5.1) & English] 1080p 720p & 480p Dual Audio [x264/10Bit HEVC] | Full Movie",
+    "title":"Spider-Man No Way Home (Hindi Dubbed)",
+    "mrout":"/spider"
+  },
+
+  {
+    "id": 5,
+    "img": "https://myimg.bid/images/2022/08/18/She-Hulk-S01-Hindi-HDRip-ALL-Episodes.jpg",
+    "name": "She Hulk",
+    "description": "She-Hulk: Attorney at Law (Season 1) WEB-DL [Hindi 5.1 & English] 1080p 720p 480p Dual Audio [x264/10Bit-HEVC] | [Episode 7 ADDED] DisneyPlus",
+    "title":"She Hulk (Season 1)",
+    "mrout":"/sheHulk"
+  }
+  ,{
+    "id": 6,
+    "img": "https://hdhub4u.fyi/wp-content/uploads/2020/05/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU._V1_SY1000_CR006751000_AL_.jpg",
+    "name": "Extraction",
+    "description": "Extraction (2020) Hindi WEB-HD 1080p 720p 480p Dual Audio [हिंदी DD5.1+ English] | Full Movie | NF Film",
+    "title":"Extraction",
+    "mrout": "Extraction"
+  }
+  ,{
+    "id": 7,
+    "img": "https://image.tmdb.org/t/p/original/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg",
+    "name": "Blonde (2022)",
+    "description": "Blonde (2022) Dual Audio [Hindi(ORG 5.1) + English] WEB-DL 1080p 720p & 480p [x264/HEVC 10bit] DD5.1 | Netflix Movie",
+    "title":"Blonde (2022)",
+    "mrout":"/blonde"
+  }
+  ,{
+    "id": 8,
+    "img": "https://image.tmdb.org/t/p/original/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg",
+    "name": "Minions and More Volume 1 (2022)",
+    "description": "Minions and More Volume 1(2022) English WEB-DL 1080p 720p & 480p x264 DD5.1 | Full Movie",
+    "title":"Minions and More Volume 1 (2022) (Full Movie)",
+    "mrout":"/minions"
+  }
+  ,{
+    "id": 9,
+    "img": "https://myimg.bid/images/2022/08/29/House-Of-The-Dragon-S01-English-HDRip-ALL-Episodes.jpg",
+    "name": "House of The Dragon",
+    "description": "House of The Dragon (Season 1) WEB-DL [English 5.1] 1080p 720p & 480p [x264/10Bit-HEVC] | ALL Episodes",
+    "title":"House of The Dragon (Season 1)"
+  }
+  ,{
+    "id": 10,
+    "img": "https://myimg.bid/images/2022/09/24/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg",
+    "name": "Beast",
+    "description": "Beast (2022) WEB-HD [Hindi DD5.1 & English] Dual Audio 1080p & 720p & 480p [HEVC/x264] ESubs HD | Full Movie",
+    "title":"Beast (Hindi Dubbed)"
+  }
+  ,{
+    "id": 11,
+    "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tmkWXw23TQSZ60AoBJNJRdQ1VhQ.jpg",
+    "name": "The Rings of Power",
+    "description": "The Lord of the Rings: The Rings of Power (Season 1) Dual Audio [Hindi DD5.1 + English] WEB-DL 1080p 720p & 480p [x264/HEVC] DD5.1 | ALL Episodes [Amazon] 05 ADDED",
+    "title":"The Lord of the Rings: The Rings of Power (Season 1) (Full Series)"
+  }
+  ,{
+    "id": 12,
+    "img": "https://myimg.bid/images/2022/09/25/After-Ever-Happy-202240f483cd6f28a982.jpg",
+    "name": "After Ever Happy",
+    "description": "After Ever Happy (2022) WEB-Rip [Telugu (Voice Over) & English] 720p & 480p HD Online Stream | Full Movie",
+    "title":"After Ever Happy"
+  }
+  ,{
+    "id": 13,
+    "img": "https://myimg.bid/images/2022/09/25/Cinderella_2015_poster-31.jpg",
+    "name": "Cinderella",
+    "description": "Cinderella (2015) BluRay [Hindi DD 2.0 & English] Dual Audio 1080p & 720p & 480p x264 ESubs HD | Full Movie",
+    "title":"Cinderella (Hindi Dubbed)"
+  }
+  ,{
+    "id": 14,
+    "img": "https://myimg.bid/images/2022/09/28/Ranga-Ranga-Vaibhavanga-20226abd4a4f36bf0fc2.jpg",
+    "name": "Ranga Ranga Vaibhavanga",
+    "description": "Ranga Ranga Vaibhavanga (2022) Proper [HQ Hindi-Dub] HDCAM 1080p & 720p & 480p [x264/HEVC] CAMRip | Full Movie",
+    "title":"Ranga Ranga Vaibhavanga (Hindi Dubbed)"
+  }
+  ,{
+    "id": 15,
+    "img": "https://myimg.bid/images/2022/09/24/19TTb4.large-athena-movie-poster-20.jpg",
+    "name": "Athena",
+    "description": "Athena (2022) WEB-HD [Hindi DD5.1 & English] Dual Audio 1080p & 720p & 480p x264 ESubs HD | Full Movie",
+    "title":"Athena (Hindi Dubbed)"
+  }
+  ,{
+    "id": 16,
+    "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uVOL1L3a57BtWQDVsIeRRyiu6TF.jpg",
+    "name": "Game of Thrones",
+    "description": "Game of Thrones (Season 5) (Full Series)",
+    "title":"Game of Thrones (Season 5) (Full Series)"
+  }
+  ,{
+    "id": 17,
+    "img": "https://myimg.bid/images/2022/03/04/The-BatMan-2022-Hindi-CAMRip-Full-Movie.jpg",
+    "name": "The BatMan",
+    "description": "The BatMan (2022) V3-CAMRip [Hindi (CLEAN) & English] 720p & 480p Dual Audio x264 | Full Movie",
+    "title":"The BatMan (Hindi Dubbed)"
+  }
+  ,{
+    "id": 18,
+    "img": "https://myimg.bid/images/2021/02/12/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+    "name": "WandaVision",
+    "description": "WandaVision (Season 1) WEB-DL [English DD5.1] 1080p 720p & 480p [x264/10Bit HEVC] ESubs HD | [Episode 9 Added]",
+    "title":"Marvel Studios: WandaVision"
+  }
+  ,{
+    "id": 19,
+    "img": "https://myimg.bid/images/2022/06/22/Doctor-Strange-2-2022-Hindi-HDRip-Full-Movie-HDHub4u51ecd102b378f20e.jpg",
+    "name": "Doctor Strange 2",
+    "description": "Doctor Strange: In The Multiverse of MadNess (2022) WEB-DL [English DD5.1] 1080p 720p & 480p [x264/HEVC] | Full Movie",
+    "title":"Doctor Strange 2 (Full Movie)"
+  }
+  ,{
+    "id": 20,
+    "img": "https://image.tmdb.org/t/p/original/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+    "name": "The Last Kingdom",
+    "description": "The Last Kingdom (Season 5) WEB-DL [Hindi DD5.1 & English] Dual Audio 1080p 720p [x264/10Bit HEVC] HD | [ALL Episodes] NF Series",
+    "tile":"The Last Kingdom (Season 5) (Full Series)"
+  }
+]
+
+
