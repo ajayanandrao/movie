@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <Router basename='/movies'>
+      <Router basename='/movie'>
         <ScrollToTop />
         <Navbar />
         <Routes>
