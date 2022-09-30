@@ -3,7 +3,6 @@ import './TopHeader.scss';
 import MovieCard from './MovieCard';
 import { Link } from 'react-router-dom';
 import list from './Movies/movi json/movie.json';
-import Thor from './Movies/Thor/Thor';
 import Carousel from '../Carousel';
 
 
