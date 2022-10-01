@@ -9,7 +9,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-dark">
         <div className="container-fluid ">
           <Link className="navbar-brand" id="ajay" to="/">
-            <img src={NavImg} width="40" className="mx-3 " alt="" />
+            <img src={NavImg} width="40" className="navImg" alt="" />
             Movies</Link>
 
           <button className="navbar-toggler" id="navbar-toggler" type="button" data-bs-toggle="collapse"

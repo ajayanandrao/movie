@@ -4,7 +4,7 @@ import MovieCard from './MovieCard';
 import { Link } from 'react-router-dom';
 import list from './Movies/movi json/movie.json';
 import Carousel from '../Carousel';
-
+import telgram from '../img/telegram.png';
 
 
 const TopHeader = () => {
@@ -23,7 +23,13 @@ const TopHeader = () => {
                     <span className='movieText-Color'>Web Series</span>
                 </div>
             </div>
-            
+            <div className="search-container">
+                        <form className="d-flex" role="search">
+                            <input className="form-control movie-search form-control-sm me-2" type="search" placeholder="Search" aria-label="Search" />
+                            <button className="btn btn-sm btn-outline-success" type="submit">Search</button>
+                        </form>
+            </div>
+
             {/* ------------------------------------- */}
 
 

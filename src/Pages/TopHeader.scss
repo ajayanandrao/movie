@@ -9,6 +9,7 @@
     align-items: center;
     border-radius: 2rem;
     margin-top: 15px;
+    border: 0.01rem solid rgba(255, 255, 255, 0.349);
     .Nav-Category-Title-One{
         width: 50%;
         text-align: center;
@@ -22,7 +23,17 @@
         }   
     }
 }
-
+.search-container{
+    width: 100%;
+    height: 50px;
+    // background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+.movie-search{
+    background: #161616;
+}
+}
 .center{
     display: flex;
     justify-content: center;
